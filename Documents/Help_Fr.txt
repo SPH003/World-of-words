@@ -1,0 +1,31 @@
+﻿## Comment utiliser l'application
+
+World of Words propose quatre fonctionnalités principales conçues pour aider les utilisateurs à apprendre et à pratiquer le vocabulaire anglais de manière interactive.
+
+### Dictionnaire
+
+La section Dictionnaire contient une collection de mots de vocabulaire soigneusement sélectionnés. Chaque entrée comprend sa signification ainsi qu'une brève description afin d'aider les utilisateurs à mieux comprendre et mémoriser les mots.
+
+### Recherche
+
+La section Recherche permet aux utilisateurs de trouver rapidement des mots dans le dictionnaire. Les recherches peuvent être effectuées à l'aide d'un mot de vocabulaire ou de sa signification correspondante.
+
+### Quiz et Tests
+
+La section Quiz aide les utilisateurs à évaluer et à améliorer leurs connaissances du vocabulaire grâce à des défis interactifs. Deux modes sont disponibles :
+
+* **Mode Facile** – Pratiquez le vocabulaire à votre propre rythme.
+* **Mode Défi Chronométré** – Testez vos connaissances sous la pression du temps.
+
+### Mini-jeu
+
+Le Mini-jeu offre une manière ludique de faire une pause tout en continuant à interagir avec du contenu lié au vocabulaire. Dans ce jeu de type « attraper et cliquer », le personnage WOW se déplace à travers l'écran et les joueurs doivent cliquer sur lui avant qu'il ne s'échappe.
+
+### Paramètres
+
+Le menu Paramètres permet aux utilisateurs de personnaliser leur expérience en modifiant :
+
+* Le thème de l'application
+* La langue d'affichage
+
+N'hésitez pas à explorer l'application et à profiter de votre parcours d'apprentissage.

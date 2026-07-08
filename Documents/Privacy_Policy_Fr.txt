@@ -1,0 +1,21 @@
+**** Politique de confidentialité ****
+
+Dernière mise à jour : 4 mars 2023
+
+Cette application a été créée à des fins éducatives.
+
+## Ressources tierces
+
+Tous les efforts raisonnables ont été déployés pour identifier et attribuer correctement les ressources tierces utilisées dans ce projet, notamment les polices de caractères, les icônes, les images, les vecteurs, les fichiers audio et d'autres ressources créatives.
+
+Si vous estimez qu'une ressource a été attribuée de manière incorrecte ou qu'une information d'attribution est manquante, veuillez ouvrir une demande (issue) ou contacter le propriétaire du dépôt afin que la situation puisse être examinée et corrigée.
+
+Les utilisateurs sont responsables de s'assurer du respect des licences applicables à toutes les ressources tierces avant toute redistribution, modification ou utilisation commerciale.
+
+## Licence
+
+Le code source de ce projet est distribué sous la licence MIT.
+
+Veuillez noter que les ressources tierces incluses dans le projet peuvent être soumises à des conditions de licence distinctes. La licence MIT s'applique uniquement au code source développé pour ce projet, sauf indication contraire.
+
+Veuillez consulter la documentation du projet ainsi que les informations d'attribution pour obtenir des détails concernant les ressources tierces et leurs licences respectives.

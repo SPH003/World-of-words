@@ -1,0 +1,21 @@
+**** Privacy Policy ****
+Last updated: March 04, 2023
+
+This application was made for educational purposes.
+
+## Third-Party Assets
+
+Every reasonable effort has been made to identify and properly acknowledge third-party assets used in this project, including fonts, icons, images, vectors, audio files, and other creative resources.
+
+If you believe that any asset has been incorrectly attributed or is missing attribution information, please open an issue or contact the repository owner so that the matter can be reviewed and corrected.
+
+Users are responsible for ensuring compliance with the licenses of all third-party assets before redistribution, modification, or commercial use.
+
+## License
+
+The source code of this project is licensed under the MIT License.
+
+Please note that third-party assets included in the project may be subject to separate licensing terms. The MIT License applies only to the source code authored for this project unless otherwise stated.
+
+Refer to the project documentation and attribution information for details regarding third-party resources and their respective licenses.
+

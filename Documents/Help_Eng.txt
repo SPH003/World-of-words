@@ -1,0 +1,31 @@
+﻿## How to Use the Application
+
+World of Words provides four main features designed to help users learn and practice English vocabulary in an interactive way.
+
+### Dictionary
+
+The Dictionary section contains a collection of carefully selected vocabulary words. Each entry includes its meaning and a brief description to help users understand and remember the word more effectively.
+
+### Search
+
+The Search section allows users to quickly locate words within the dictionary. Searches can be performed using either a vocabulary word or its corresponding meaning.
+
+### Quiz and Test
+
+The Quiz section helps users evaluate and improve their vocabulary knowledge through interactive challenges. Two modes are available:
+
+* **Easy Mode** – Practice vocabulary at your own pace.
+* **Time Challenge Mode** – Test your knowledge under time pressure.
+
+### Mini Game
+
+The Mini Game provides a fun way to take a break while still interacting with vocabulary-related content. In this catch-and-click game, the WOW character moves around the screen, and players must click on it before it escapes.
+
+### Settings
+
+The Settings menu allows users to customize the application experience by changing:
+
+* The application theme
+* The display language
+
+Feel free to explore the application and enjoy your learning journey.
